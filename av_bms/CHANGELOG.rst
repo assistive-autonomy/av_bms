@@ -2,8 +2,8 @@
 Changelog for package av_bms
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.0 (2026-07-14)
+------------------
 * Migrate ROS2 pkg from Humble to Jazzy
 
 1.0.0 (2026-03-11)
